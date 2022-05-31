@@ -1,0 +1,15 @@
+Subject: [Your company’s name] <> [invoice reference number]
+
+Body:
+
+Hello [Recipient's first name],
+
+I hope that you are well. I am contacting you on behalf of [your company] with regard to the following invoice:
+
+{invoice balance}
+
+This invoice is due for payment on [invoice due date]. Please could you kindly confirm receipt of this invoice and advise as to whether payment has been scheduled.
+
+I have attached a copy of the invoice for your reference. If you require any further information, please let me know.
+
+Best regards,
